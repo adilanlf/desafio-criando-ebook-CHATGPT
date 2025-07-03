@@ -3,7 +3,7 @@
 
 # Projeto EBOOK gerado por I.A.s
 
-[Ebook Python](...)
+[Ebook Python](https://github.com/adilanlf/desafio-criando-ebook-CHATGPT/blob/main/output/ebook%20-%20TRUQUES%20DA%20SERPENTE%20pdf.pdf)
 
 
 ## Tecnologias utilizadas no projeto:
